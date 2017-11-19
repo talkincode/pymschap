@@ -1,8 +1,8 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
     name='pymschap',
-    version='1.0',
+    version='0.1',
     packages=['pymschap'],
     url='https://github.com/talkincode/pymschap',
     license='LGPL',
